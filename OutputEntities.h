@@ -4,7 +4,7 @@
 void OutputCategory(struct Category category)
 {
     printf("Category's name: %s\n", category.name);
-    printf("Category's specialty: %s\n", category.description);
+    printf("Category's description: %s\n", category.description);
 }
 
 void OutputProduct(struct Product product, struct Category category)
