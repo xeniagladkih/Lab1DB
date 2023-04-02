@@ -1,0 +1,3 @@
+C:/Users/Ксюша/Documents/univ_2_4/data base/Lab1DB/cmake-build-debug/CMakeFiles/Lab1DB.dir
+C:/Users/Ксюша/Documents/univ_2_4/data base/Lab1DB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ксюша/Documents/univ_2_4/data base/Lab1DB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
